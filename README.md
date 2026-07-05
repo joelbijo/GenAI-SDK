@@ -5,7 +5,7 @@ A concise cookbook demonstrating core capabilities of the official `google-genai
 ## Features Covered
 - **Core Generation**: Basic text generation, system instructions, and configuration tuning (temperature/top_p).
 - **Multimodal Inputs**: Analyzing raw PIL images, online image URLs, and large multi-page PDF files.
-- **Advanced Workflows**: Multi-turn chat sessions, streaming responses, and asynchronous API execution (`aio`).
+- **Advanced Workflows**: Multi-turn chat sessions, streaming responses, and asynchronous API execution.
 - **Structured Outputs**: Parsing text straight into JSON format using Pydantic models and explicit JSON schemas.
 - **Safety & Utilities**: Implementing safety filters, token counting, and tool calling configurations.
 
